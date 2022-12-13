@@ -1,2 +1,3 @@
 # block-rdp-bruteforce
-Check Windows Eventlogs for repeated longin attemps and blocks bruteforcing IPs using Windows Defender Firewall
+
+This PowerShell Script detects brute force attacks on Remote Desktop Services  and blocks them using the Windows Firewall. It checksthe Windows Eventlogs for repeated longin attemps and blocks bruteforcing Adressess using it's own Windows Defender Firewall rule.

@@ -18,7 +18,7 @@ This PowerShell script monitors Windows Event Logs for signs of repeated failed 
 
 1. The script scans Windows Event Logs for multiple failed RDS login attempts
 2. If an IP address exceeds a (configurable) threshold of failures, it is flagged as a potential attacker
-3. The script then adds a Windows Firewall rule to block all further traffic from that IP address
+3. The script then adds a Windows Firewall rule ("BlockRDPBruteForce") to block all further traffic from that IP address
 
 ## Requirements
 

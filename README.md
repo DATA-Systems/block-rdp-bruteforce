@@ -1,6 +1,6 @@
 # RDS Brute Force Blocker
 
-A fast and lightweight PowerShell script to detect and block brute force attacks on Remote Desktop Services (RDS). Protects session hosts (RD-SH) as well as gateways (RD Gateway).
+A fast and lightweight PowerShell script to detect and block brute force attacks on Remote Desktop Services (RDS). Protects session hosts (RD-SH) as well as gateways (RD Gateway). 
 
 ## Overview
 
